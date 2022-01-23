@@ -1,0 +1,4 @@
+deap
+matplotlib
+scipy
+scoop
